@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13748" started-at="2019-02-08T10:21:38Z" finished-at="2019-02-08T10:21:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13748" started-at="2019-02-08T10:21:38Z" finished-at="2019-02-08T10:21:52Z">
+      <class name="com.TestCase.LoginPageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.TestCase.LoginPageTest@be83e4]" name="SetUp" is-config="true" duration-ms="43130" started-at="2019-02-08T10:20:55Z" finished-at="2019-02-08T10:21:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="CheckTitle()[pri:0, instance:com.TestCase.LoginPageTest@be83e4]" name="CheckTitle" duration-ms="1392" started-at="2019-02-08T10:21:39Z" finished-at="2019-02-08T10:21:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckTitle -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.TestCase.LoginPageTest@be83e4]" name="Login" duration-ms="11425" started-at="2019-02-08T10:21:40Z" finished-at="2019-02-08T10:21:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Close_Browser()[pri:0, instance:com.TestCase.LoginPageTest@be83e4]" name="Close_Browser" is-config="true" duration-ms="2473" started-at="2019-02-08T10:21:53Z" finished-at="2019-02-08T10:21:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close_Browser -->
+      </class> <!-- com.TestCase.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
